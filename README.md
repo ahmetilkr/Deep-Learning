@@ -76,7 +76,7 @@ Derin Öğrenme: Proje,  TensorFlow veya Keras ile modellenmiştir.
 
 
 
-Bu projeyi bootcamp sonrası daha kullanışlı ve etkileyici hale getirmek istiyorum. Şu basit adımları planlıyorum:
+Bu projeyi bootcamp sonrası daha kullanışlı ve etkileyici hale getirmek istiyorum. Şu adımları planlıyorum:
 
 
 
