@@ -12,11 +12,11 @@ Proje kapsamında şu adımlar izlenmiştir:
 
 
 
-###### Veri Seti Yükleme ve İnceleme:
+###### **Veri Seti Yükleme ve İnceleme:**
 
 
 
-Eğitim ve test setlerinin boyutları hesaplanmış: Eğitim verisi şekli (25000, 224, 224, 3), test verisi şekli (1, 224, 224, 3) 
+Eğitim ve test setlerinin boyutları hesaplanmış: Eğitim verisi şekli (25000, 224, 224, 3), test verisi şekli (1, 224, 224, 3)
 
 Sınıf sayısı: 2 (kedi ve köpek).
 
@@ -28,7 +28,7 @@ Eğitim setinden rastgele seçilen 20 görüntü, Matplotlib kullanılarak görs
 
 
 
-###### Modellerin Geliştirilmesi ve Eğitimi:
+###### **Modellerin Geliştirilmesi ve Eğitimi:**
 
 
 
@@ -40,7 +40,7 @@ Transfer Learning Modeli: Önceden eğitilmiş MobileNetV2 modeli temel alınara
 
 
 
-###### Performans Karşılaştırması:
+###### **Performans Karşılaştırması:**
 
 
 
@@ -62,11 +62,11 @@ Karşılaştırma, Matplotlib ile bar grafiği olarak görselleştirilmiştir. G
 
 
 
-###### Kullanılan Kütüphaneler ve Araçlar:
+###### **Kullanılan Kütüphaneler ve Araçlar:**
 
 
 
-Veri İşleme ve Görselleştirme: os, random, matplotlib.pyplot (görselleştirme için), pandas (veri çerçeveleri için), 
+Veri İşleme ve Görselleştirme: os, random, matplotlib.pyplot (görselleştirme için), pandas (veri çerçeveleri için),
 
 Derin Öğrenme: Proje,  TensorFlow veya Keras ile modellenmiştir.
 
@@ -93,6 +93,4 @@ Paylaşım ve Güncelleme: Projeyi GitHub’da düzenli tutacağım ve yeni öze
 Öğrenmek İstediğim Teknolojiler: Web uygulamaları (Streamlit), mobil AI (TensorFlow Lite) ve daha iyi model eğitimi için pratik araçlar.
 
 Kariyer Hedefi: Bilgisayarlı görü (computer vision) alanında AI/ML Engineer olmak.(Teknofest takımında görüntü işleme alanında çalışmam ile başladı.)
-
-
 
