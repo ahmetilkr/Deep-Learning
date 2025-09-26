@@ -94,3 +94,11 @@ Paylaşım ve Güncelleme: Projeyi GitHub’da düzenli tutacağım ve yeni öze
 
 Kariyer Hedefi: Bilgisayarlı görü (computer vision) alanında AI/ML Engineer olmak.(Teknofest takımında görüntü işleme alanında çalışmam ile başladı.)
 
+
+
+### LİNK
+
+
+
+https://www.kaggle.com/code/ahmetilkerkahraman/deep-learning/edit
+
