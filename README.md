@@ -32,7 +32,7 @@ Eğitim setinden rastgele seçilen 20 görüntü, Matplotlib kullanılarak görs
 
 
 
-Temel CNN Modeli: Sıfırdan tasarlanmış bir Convolutional Neural Network (CNN) modeli kullanılmıştır. Model, konvolüsyon katmanları, pooling katmanları, dropout ve fully connected katmanlardan oluşmaktadır. Bu model, veri seti üzerinde eğitilmiş ve doğrulama (validation) seti ile test edilmiştir.
+Temel CNN Modeli: Sıfırdan tasarlanmış bir Convolutional Neural Network (CNN) modeli kullanılmıştır. Model, konvolüsyon katmanları, pooling katmanları, dropout ve fully connected katmanlardan oluşmaktadır. Bu model, veri seti üzerinde eğitilmiş ve doğrulama  seti ile test edilmiştir.
 
 Transfer Learning Modeli: Önceden eğitilmiş MobileNetV2 modeli temel alınarak transfer learning yaklaşımı uygulanmıştır. MobileNetV2'nin özellik çıkarım katmanları dondurulmuş ve üst katmanlara sınıflandırma katmanları eklenmiştir.
 
