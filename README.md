@@ -82,7 +82,7 @@ Bu projeyi bootcamp sonrası daha kullanışlı ve etkileyici hale getirmek isti
 
 Kullanıcı Arayüzü: Streamlit ile bir web uygulaması yapacağım. Kullanıcılar kendi kedi/köpek fotoğraflarını yükleyip sınıflandırma sonucunu görebilecek.
 
-Veri ve Model İyileştirmesi: Daha fazla hayvan türü (ör. kuş) ekleyerek sınıflandırmayı genişleteceğim. Ayrıca, veri artırma ile modelin doğruluğunu artıracağım.
+Veri ve Model İyileştirmesi: Daha fazla hayvan türü ekleyerek sınıflandırmayı genişleteceğim. Ayrıca, veri artırma ile modelin doğruluğunu artıracağım.
 
 Mobil Uygulama: Modeli mobil cihazlarda çalıştırılabilir hale getirip basit bir hayvan tanıma uygulaması yapacağım.
 
