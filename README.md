@@ -100,5 +100,5 @@ Kariyer Hedefi: Bilgisayarlı görü (computer vision) alanında AI/ML Engineer 
 
 
 
-https://www.kaggle.com/code/ahmetilkerkahraman/deep-learning/edit
+https://www.kaggle.com/code/ahmetilkerkahraman/deep-learning2
 
